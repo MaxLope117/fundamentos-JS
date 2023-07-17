@@ -1,0 +1,38 @@
+:root {
+    --secundario: blue;
+}
+
+body {
+    background-color: #b3acac;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container p {
+    font-size: 100px;
+}
+
+button {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(67, 63, 63);
+}
+
+#nombre  {
+    color: white;
+}
