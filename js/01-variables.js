@@ -83,12 +83,12 @@ console.log(birthday);
 
 //===============================================================================
 
-// //! Extra
+//! Extra que no interesa
 let bird = 'Agapornis';
-console.log(bird);
+// console.log(bird);
 
 const birdName = 'Ra';
-console.log(birdName);
+// console.log(birdName);
 
 const parrafo = document.getElementById('nombre');
 // console.log(parrafo);
@@ -106,3 +106,16 @@ button.addEventListener('click', () => {
     // console.log(parrafo);
 
 });
+
+/*
+
+    TODO: Imprimé en consola "Hola JS soy Agustín"
+    TODO: Declará una variable de cada tipo (string, number, boolean y undefined).
+
+    (Hazlo en la parte de abajo)
+
+*/
+
+//* Inicio Tarea (la tarea va empieza después de está línea).
+
+//* Fin Tarea.
